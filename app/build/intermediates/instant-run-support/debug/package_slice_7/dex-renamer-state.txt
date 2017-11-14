@@ -1,0 +1,4 @@
+#Tue Nov 14 00:35:45 PST 2017
+base.0=C\:\\Users\\bekal\\Desktop\\sem-3\\CS443\\HOMEWORK\\WeatherApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+renamed.0=classes.dex
+file.0=C\:\\Users\\bekal\\Desktop\\sem-3\\CS443\\HOMEWORK\\WeatherApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex
